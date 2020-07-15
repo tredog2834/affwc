@@ -1,0 +1,14 @@
+A:link {text-decoration: none; color:#003399;}
+A:visited {text-decoration: none; color:#003399;}
+A:active {text-decoration: none; color:#003399;}
+A:hover {text-decoration: underline; color:#990000;}
+
+div.menuit {font-family:Tahoma; font-weight:bold; font-size:12px; line-height:2.5em; width:168px; height:30px; padding-left: 10px; text-align: left;}
+div.menuit:hover {background-color:#FFCC33; color:#fff;}
+img.flipimg {
+  transform:rotate(180deg);
+-ms-transform:rotate(180deg); /* IE 9 */
+-moz-transform:rotate(180deg); /* Firefox */
+-webkit-transform:rotate(180deg); /* Safari and Chrome */
+-o-transform:rotate(180deg); /* Opera */
+}
